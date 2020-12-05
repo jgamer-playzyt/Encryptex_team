@@ -5,6 +5,7 @@ import Work from "pages/work";
 import Team from "pages/team";
 import Contact from "pages/contact";
 import Join from "pages/join";
+import InviteCode from "pages/inviteCode";
 import Page404 from "pages/page404";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { createGlobalStyle } from "styled-components";
@@ -28,6 +29,7 @@ export default () => (
 			<Route exact path='/team' component={Team}/>
 			<Route exact path='/contact' component={Contact}/>
 			<Route exact path='/join' component={Join}/>
+			<Route exact path='/invite-code' component={InviteCode}/>
 			<Route component={Page404}/>
         </Switch>
     </Router>
