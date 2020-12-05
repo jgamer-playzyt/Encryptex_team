@@ -176,7 +176,7 @@ export default (() => {
 				Get friends.stay social.Keep the team toxic proof
 			</Text>
 			<Link
-				href="/about"
+				href="/Join"
 				text-decoration-line="initial"
 				color="--darkL2"
 				background="--color-light"
