@@ -32,13 +32,7 @@ export default (() => {
 				<StackItem width="50%" lg-width="100%">
 					<Section>
 						<Formspree errorMessage="Something went wrong" completeText="Success" endpoint="https://formspree.io/f/xvovwpze">
-							<Input
-								name="Code"
-								placeholder="Code"
-								margin-right="4px"
-								type="number"
-								defaultValue="00102"
-							/>
+							<Input name="Code" placeholder="Code" margin-right="4px" type="tel" />
 						</Formspree>
 						<Button>
 							Submit
