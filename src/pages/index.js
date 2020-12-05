@@ -81,7 +81,7 @@ export default (() => {
 								hover-opacity="1"
 								letter-spacing="0.5px"
 								text-transform="initial"
-								href="About"
+								href="/Home"
 							/>
 							<Override
 								slot="link-active"
@@ -92,6 +92,9 @@ export default (() => {
 								cursor="default"
 							/>
 							<Override slot="link-team" href="Team" />
+							<Override slot="link-invite-code">
+								Home
+							</Override>
 						</Override>
 						<Override slot="icon,icon-close" category="md" icon={MdMenu} />
 						<Override slot="icon" category="md" icon={MdMenu} size="36px" />

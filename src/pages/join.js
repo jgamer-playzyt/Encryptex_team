@@ -23,7 +23,7 @@ export default (() => {
 			<StackItem>
 				<Text font="--lead">
 					<Link
-						href="/Home.index"
+						href="/Home"
 						link-background="#001cff"
 						link-border-color="#ffffff"
 						link-border-width="5px"

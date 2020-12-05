@@ -11,8 +11,7 @@ export default {
 				"5fcb7cb7e563f3001ecb6d20",
 				"5fcb7cb7e563f3001ecb6d1e",
 				"5fcb7cb7e563f3001ecb6d22",
-				"5fcbc6dbf8ae59001fb0ca64",
-				"5fcbe856e563f3001ecb6f84"
+				"5fcbc6dbf8ae59001fb0ca64"
 			]
 		},
 		"5fcb7cb7e563f3001ecb6d18": {
@@ -84,11 +83,6 @@ export default {
 			"id": "5fcbc6dbf8ae59001fb0ca64",
 			"pageUrl": "join",
 			"name": "Join"
-		},
-		"5fcbe856e563f3001ecb6f84": {
-			"id": "5fcbe856e563f3001ecb6f84",
-			"pageUrl": "invite-code",
-			"name": "Invite code"
 		}
 	},
 	"mode": "production",
