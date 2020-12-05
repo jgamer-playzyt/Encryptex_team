@@ -1,8 +1,8 @@
 import React from "react";
 import theme from "theme";
-import { Theme, Link, Box, Icon, Text, Input, Button } from "@quarkly/widgets";
+import { Theme, Link, Text, Box, Icon, Input, Button } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
-import { Override, StackItem, Stack, Formspree, Section } from "@quarkly/components";
+import { StackItem, Override, Stack, Formspree, Section } from "@quarkly/components";
 import { MdEmail } from "react-icons/md";
 export default (() => {
 	return <Theme theme={theme}>
@@ -20,6 +20,19 @@ export default (() => {
 			position="relative"
 			background="linear-gradient(0deg,rgba(25, 30, 34, 0.8) 0%,rgba(25, 30, 34, 0.8) 100%),--color-darkL2 url(https://images.unsplash.com/photo-1547619292-240402b5ae5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80)"
 		>
+			<StackItem>
+				<Text font="--lead">
+					<Link
+						href="/Home.index"
+						link-background="#001cff"
+						link-border-color="#ffffff"
+						link-border-width="5px"
+						link-border-style="double"
+					>
+						Back Home
+					</Link>
+				</Text>
+			</StackItem>
 			<Stack>
 				<StackItem width="50%" md-width="100%">
 					<Override slot="StackItemContent" flex-direction="column" />
