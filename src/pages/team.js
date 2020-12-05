@@ -288,7 +288,6 @@ export default (() => {
 						width="100%"
 						quarkly-title="Image"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-man.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					/>
 					<Box sm-margin="12px 0px 0px 0px" sm-width="100%">
@@ -332,7 +331,6 @@ export default (() => {
 						width="100%"
 						quarkly-title="Image"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-woman.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					/>
 					<Box sm-margin="12px 0px 0px 0px" sm-width="100%">
@@ -382,7 +380,6 @@ export default (() => {
 						width="100%"
 						quarkly-title="Image"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-man.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					/>
 					<Box sm-margin="12px 0px 0px 0px" sm-width="100%">
@@ -437,7 +434,6 @@ export default (() => {
 						quarkly-title="Image"
 						padding-bottom="(4 / 3) * 100%"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-woman.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 					/>
 					<Box sm-margin="12px 0px 0px 0px" sm-width="100%">
@@ -484,11 +480,10 @@ export default (() => {
 						sm-flex-direction="column"
 					/>
 					<Box
-						background="--color-lightD1 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-user-man.svg?v=2020-11-06T17:32:03.825Z) center center/100% no-repeat"
+						background="--color-lightD1 url(https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) center center/100% no-repeat"
 						width="100%"
 						quarkly-title="Image"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-man.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 						padding-bottom="(4 / 3) * 100%"
 					/>
@@ -540,7 +535,6 @@ export default (() => {
 						width="100%"
 						quarkly-title="Image"
 						padding="0px 0px 121% 0px"
-						hover-background="--color-lightD1 url(https://artemzhigalin.ru/src/default-website-user-woman.svg) center center/110% no-repeat"
 						transition="background --transitionDuration-normal --transitionTimingFunction-easeInOut 0s"
 						padding-bottom="(4 / 3) * 100%"
 					/>
